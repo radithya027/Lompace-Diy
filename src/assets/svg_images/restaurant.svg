@@ -1,0 +1,11 @@
+<svg width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="25.5" cy="25.222" r="25" fill="#860F0F"/>
+<mask id="mask0_77_43" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="13" y="13" width="25" height="25">
+<rect x="13.5" y="13.222" width="24" height="24" fill="#D9D9D9"/>
+</mask>
+<g id="restaurant">
+<path id="Path 25" d="M8 4V20" stroke="#050733" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path 25_2" d="M18 12C18 12 15 11 15 8C15 5 18 4 18 4V20" stroke="#050733" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path 26" d="M5 4V7C5 8.65685 6.34315 10 8 10V10C9.65685 10 11 8.65685 11 7V4" stroke="#050733" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
